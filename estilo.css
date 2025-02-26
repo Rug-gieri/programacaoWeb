@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(160, 159, 159);
+}
+
+header {
+    background-color:rgb(93, 93, 182);
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.destaque{ 
+    background-color: #49cf9c;
+    color:#fff;
+    border-radius: 10px;
+    padding:40px;
+    text-align: center;
+}
+
+.destaque h1 {
+    font-size: 55px;
+}
+
+.destaque a {
+    text-decoration: none;
+    background-color: #c92b2b;
+    color: black;
+    border-radius: 6px;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+}
+
+.produtos {
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    gap: 20px;
+}
+
+.produto-card{
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    width: 346px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+ 69999173668
+}
